@@ -1,0 +1,7 @@
+A1C
+A2B
+C1B
+A3C
+B1A
+B2C
+A1C
